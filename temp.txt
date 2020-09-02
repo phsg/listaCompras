@@ -1,0 +1,15 @@
+https://programmablesearchengine.google.com/cse/setup/basic?cx=93746720ae2fe509c
+
+<script async src="https://cse.google.com/cse.js?cx=93746720ae2fe509c"></script><div class="gcse-search"></div>
+cx=93746720ae2fe509c
+   93746720ae2fe509c
+
+https://developers.google.com/custom-search/v1/introduction
+key
+AIzaSyCLFxHeEM5RtroEl95cMojK-aQafVCWZaw
+
+
+Fazer
+ - imagem nao esta funcionando
+ - Publicar no heroku
+ - Esta sobrescrebeno a lista, nap ccria uma nova

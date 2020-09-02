@@ -1,0 +1,26 @@
+.page-container {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.new-list-container {
+    width: 80%;
+}
+
+.home-image {
+    background-image: url(https://th.bing.com/th/id/OIP.BO6VgCKZL50jzEt8uLTWBgHaE8?w=265&h=180&c=7&o=5&pid=1.7);
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.new-list-container>a>div {
+    background-color: rgb(255, 255, 255, 0.8);
+}
+
+.list-container>a>div {
+    background-color: rgb(255, 255, 255, 0.8);
+}
